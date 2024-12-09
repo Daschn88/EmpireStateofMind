@@ -1,16 +1,16 @@
 /*   STEP 1   */
-export const leagueID = "1048424660058177536"; // your league ID
-export const leagueName = "Empire State of Mind"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const leagueID = "1048711698997211136"; // your league ID
+export const leagueName = "Run the Damn Ball"; // your league name
+export const dues = 30; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to a new project for the Empire State of Mind Fantasy Football League</p>
+  <p>Welcome to a new project for the Run the Ball Empire Fantasy Football League</p>
   <p>Here I will try to keep updating the league and any significant changes that happen. I will include the Consitution into the league shortly but need to get it managed before doing that.</p>
   <p>Eventually I will try to have a little blurb written for each individual within the league. </p>
-  <p>Empire State of Mind originated in the 2021 season as a group of individual connected by work, life and by chance which lead to a strong league. The goal was to create the league in a unique way and to continue to have a place to troll and roast others. </p>
+  <p>Run the Damn Ball originated in the 2023 season as a spin off from Empire State of Mind fantasy league group for those that couldn't get enough and to provide some different twists for scoring and play style. </p>
   <p>This is a work in progress and will be edited over time.</p>
 
 `;
